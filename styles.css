@@ -1,0 +1,38 @@
+body {
+    background-color: #1e1e1e;
+    width: 100vw;
+}
+
+#banner {
+    background-image: url("round-loaf.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    display: block;
+}
+
+.midsection {
+    padding: 2em;
+}
+
+#mid1 {
+    background-color: white;
+    color: #1e1e1e;
+}
+
+#mid2 {
+    background-color: #1e1e1e;
+    color: white;
+}
+
+#window {
+    width: 100%;
+}
+
+footer {
+    background-color: #1e1e1e;
+    color: white;
+    font-size: 0.7em;
+    text-align: center;
+    margin: 2em;
+}
