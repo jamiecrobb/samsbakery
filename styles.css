@@ -3,34 +3,18 @@ body {
     width: 100vw;
 }
 
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
 #banner {
-    background-image: url("round-loaf.jpg");
     background-size: cover;
     background-position: center;
     height: 50vh;
     display: block;
 }
 
-.midsection {
-    padding: 2em;
-}
-
-#mid1 {
-    background-color: white;
-    color: #1e1e1e;
-}
-
-#mid2 {
-    background-color: white;
-    color: #1e1e1e;
-    padding-top: 0;
-}
-
-#window {
-    width: 100%;
-}
-
-footer {
+footer p {
     background-color: #1e1e1e;
     color: white;
     font-size: 0.7em;

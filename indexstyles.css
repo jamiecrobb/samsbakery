@@ -1,0 +1,22 @@
+#banner {
+    background-image: url("round-loaf.jpg");
+}
+
+.midsection {
+    padding: 2em;
+}
+
+#mid1 {
+    background-color: white;
+    color: #1e1e1e;
+}
+
+#mid2 {
+    background-color: white;
+    color: #1e1e1e;
+    padding-top: 0;
+}
+
+#window {
+    width: 100%;
+}
