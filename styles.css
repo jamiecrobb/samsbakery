@@ -15,14 +15,13 @@ body {
     padding: 2em;
 }
 
-#mid1 {
+#mid1, #mid2 {
     background-color: white;
     color: #1e1e1e;
 }
 
 #mid2 {
-    background-color: #1e1e1e;
-    color: white;
+    padding-top: 0;
 }
 
 #window {
